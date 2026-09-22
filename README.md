@@ -1,16 +1,15 @@
-## Hi there 👋
+# HedgehogBeta
 
-<!--
-**HedgehogBeta/HedgehogBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Undergraduate @ Wuhan University | Embedded Systems & Control
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 机器人方向本科生
+- 关注嵌入式控制与足式机器人
+
+## Tech Stack
+
+- **Languages:** C / C++, Python
+- **Embedded:** STM32, FreeRTOS
+- **Robotics:** ROS 2
+- **Tools:** Git, Linux
